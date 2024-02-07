@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Developing a website for a restaurant, that would make all the process easier, for the customers and owner.**
 
-- 🌱 Learning **Bextjs, TypeScript, MongoDB, django**
+- 🌱 Learning **Nextjs, TypeScript, MongoDB, django**
 
 - 📫**andresrafamt99@gmail.com**
 
