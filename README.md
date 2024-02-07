@@ -3,12 +3,11 @@
 
 - 🔭 I’m currently working on **Developing a website for a restaurant, that would make all the process easier, for the customers and owner.**
 
-- 🌱 I’m currently learning **Bextjs, TypeScript, MongoDB, django**
+- 🌱 Learning **Bextjs, TypeScript, MongoDB, django**
 
+- 📫**andresrafamt99@gmail.com**
 
-- 📫 How to reach me **andresrafamt99@gmail.com**
-
-- ⚡ Fun fact **I enjoy every sport even tho I might suck and ocassional gaming**
+- ⚡**I enjoy every sport even tho I might not be good at it and ocassional gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
