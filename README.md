@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Andres Medina</h1>
-<h3 align="center">A passionate Full-Stack Developer living Miramar, Florida.</h3>
+<h3 align="center">A passionate Full-Stack Developer living Florida.</h3>
 
 - 🔭 I’m currently working on **Developing a website for a restaurant, that would make all the process easier, for the customers and owner.**
 
 - 🌱 I’m currently learning **Bextjs, TypeScript, MongoDB, django**
 
-- 👯 I’m looking to collaborate on **Creating full working Web Apps**
-
-- 💬 Ask me about **React, JavaScript, MySQL**
 
 - 📫 How to reach me **andresrafamt99@gmail.com**
 
-- ⚡ Fun fact **I enjoy every sport**
+- ⚡ Fun fact **I enjoy every sport even tho I might suck and ocassional gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
