@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Developing a website for a restaurant, that would make all the process easier, for the customers and owner.**
 
-- 🌱 I’m currently learning **Angular, TypeScript, MongoDB, django**
+- 🌱 I’m currently learning **Bextjs, TypeScript, MongoDB, django**
 
 - 👯 I’m looking to collaborate on **Creating full working Web Apps**
 
