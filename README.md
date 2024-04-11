@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Medina</h1>
-<h3 align="center">A passionate Full-Stack Developer living Florida.</h3>
+<h3 align="center">Full-Stack Developer.</h3>
 
 - 🔭 I’m currently working on **Developing a website for a restaurant, that would make all the process easier, for the customers and owner.**
 
